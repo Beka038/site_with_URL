@@ -1,0 +1,23 @@
+body {
+    background: aqua;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: coral;
+}
+p {
+    text-align: center;
+    color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: coral;
+}
+
+a {
+    color: black;
+}
